@@ -1,13 +1,8 @@
 ăâê
 eee
 them vao
-<<<<<<< HEAD
 hello moi nguoi
 nhanh master moi merge thanh cong vs minh
-=======
-
-
->>>>>>> fd63a0e (Merge remote-tracking branch 'origin/minh' into branch)
 ttt
 hhh
 
