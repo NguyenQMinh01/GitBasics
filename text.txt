@@ -8,6 +8,7 @@ lai test cai nua
 lối đi riêng của master
 test thêm cái nữa cho đỡ sợ
 ahihi đồ ngốc
+từng thay đổi phải commit liền để không bị nhánh khác commit nếu đã đồng bộ cùng 1 dòng
 ha
 ttt
 hhh
